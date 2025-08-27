@@ -179,7 +179,7 @@ Há suporte a **multi-barbearia** e relatórios consolidados.
 
 ## 📄 Licença
 
-Defina aqui a licença do projeto (ex.: MIT, Apache-2.0).
+MIT License.
 
 ---
 
