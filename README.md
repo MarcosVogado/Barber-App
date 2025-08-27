@@ -177,6 +177,14 @@ Há suporte a **multi-barbearia** e relatórios consolidados.
 
 ---
 
+## 👥 Contribuidores
+
+- **Marcos Vogado** — [github.com/MarcosVogado](https://github.com/MarcosVogado)
+- **Guilherme Oliveira** — *(adicione aqui o link do GitHub)*
+- **Mateus de Miranda** — *(adicione aqui o link do GitHub)*
+  
+---
+
 ## 📄 Licença
 
 MIT License.
