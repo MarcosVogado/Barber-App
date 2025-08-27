@@ -181,7 +181,7 @@ Há suporte a **multi-barbearia** e relatórios consolidados.
 
 - **Marcos Vogado** — [github.com/MarcosVogado](https://github.com/MarcosVogado)
 - **Guilherme Oliveira** — *(adicione aqui o link do GitHub)*
-- **Mateus de Miranda** — *(adicione aqui o link do GitHub)*
+- **Mateus de Miranda** — [github.com/MateusMDPalma](https://github.com/MateusMDPalma)
   
 ---
 
