@@ -1,4 +1,4 @@
-# ✂️ Barber-App
+# <a href="https://razor-ray-app.lovable.app">✂️ Barber-App</a>
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Versão](https://img.shields.io/badge/versão-1.0-blue)
 ![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-brightgreen)
