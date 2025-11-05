@@ -4,6 +4,8 @@
 ![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-brightgreen)
 ![Made with](https://img.shields.io/badge/made%20with-love-red)
 
+## <a href="https://gamma.app/docs/Barber-App-kfxznr6lbar29sm">APRESENTAÇÃO DO PROJETO</a>
+
 **Agenda inteligente, relacionamento que converte e gestão sem fricção para barbearias.**
 *Menos no-show. Mais faturamento. Decisões com dados.*
 
