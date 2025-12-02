@@ -1,4 +1,4 @@
-# <a href="https://barberappceub.lovable.app/">✂️ Barber-App</a>
+# <a href="https://sharp-slot-pro.lovable.app/">✂️ Barber-App</a>
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Versão](https://img.shields.io/badge/versão-1.0-blue)
 ![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-brightgreen)
