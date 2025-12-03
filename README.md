@@ -9,8 +9,9 @@
 
 ---
 
-## 🔗 Apresentação Visual  
-➡️ **Material no Gamma:** https://gamma.app/docs/Barber-App-kfxznr6lbar29sm
+## 🔗 Apresentação Visual da Solução & Protótipo 
+➡️ **Material da apresentação:** https://sharp-slot-pro.lovable.app/
+➡️ **Material da apresentação:** https://gamma.app/docs/Barber-App-kfxznr6lbar29sm
 
 ---
 
