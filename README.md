@@ -12,7 +12,7 @@
 ---
 
 ## 📚 Sumário
-* [Pitch Estruturado](#-pitch)
+* [Barber-App — Pitch Executivo](#-barber-app-pitch-executivo)
 * [Por que este projeto existe](#-por-que-este-projeto-existe)
 * [Objetivo do produto](#-objetivo-do-produto)
 * [Proposta de valor (como resolvemos)](#-proposta-de-valor-como-resolvemos)
@@ -32,8 +32,6 @@
 > Se a resposta for “não”, não entra no escopo.
 
 ---
-
-## Pitch
 
 # Barber-App — Pitch Executivo
 
